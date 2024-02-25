@@ -1,4 +1,4 @@
-Hi there 👋
+
 
 <!--
 **vikas-kumar-09/vikas-kumar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vikashgupta1234x@gmail.com**
 
-- ⚡ Fun fact **I am Funny😁**
+- ⚡ Fun fact **Listen == Silent **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
