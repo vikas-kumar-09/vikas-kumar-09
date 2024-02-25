@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">a Java Programmer, a front-end web Developer, and a person who ❤ loves to build tech.</h3>
- <img align="right" width="400px" src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="Developer">
+ <img align="right" width="300px" src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="Developer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-kumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-kumar-09" /> </p>
 
