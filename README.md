@@ -1,4 +1,4 @@
-[### Hi there 👋
+Hi there 👋
 
 <!--
 **vikas-kumar-09/vikas-kumar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">a Java Programmer, a front-end web Developer, and a person who ❤ loves to build tech.</h3>
  <img align="right" width="400px" src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="Developer">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-kumar-09&" alt="vikas-kumar-09" /></p>
 )https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<h3 align="center">A Java Programmer, a front-end web Developer, and a person who ❤ loves to build tech.</h3>
+<h3 align="center"> A Java Programmer, a front-end web Developer, and a person who ❤ loves to build tech.</h3>
  <img align="right" width="400px" src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="Developer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-kumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-kumar-09" /> </p>
